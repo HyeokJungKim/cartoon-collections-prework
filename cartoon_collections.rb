@@ -28,4 +28,5 @@ def find_the_cheese(array)# code an argument here
     if cheese_types.include?(word)
       return word
     end
+  end
 end
